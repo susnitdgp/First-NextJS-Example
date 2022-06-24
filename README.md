@@ -1,3 +1,2 @@
-# nextjs-csajtq
+#NEXTJS
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/nextjs-csajtq)
