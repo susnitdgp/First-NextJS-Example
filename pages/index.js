@@ -35,6 +35,9 @@ export default function Home() {
       <Button type="primary" style={{ marginLeft: 8 }}>
         Primary Button
       </Button>
+      <Divider orientation="left">Antd Component</Divider>
+
+      <DatePicker />
 
 
      

@@ -1,4 +1,5 @@
 import { Divider } from "antd";
+import "antd/dist/antd.css";
 
 function About(){
 
